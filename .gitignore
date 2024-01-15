@@ -5,3 +5,5 @@
 /.vs
 /WordFinderQU/obj
 /WordFinderQU/bin/Debug/net8.0
+/WordFinderQUTest/bin/Debug/net8.0
+/WordFinderQUTest/obj
